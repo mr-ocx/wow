@@ -1,0 +1,7 @@
+## Interface: 20501
+## Title: MrOcxMoneyMaker
+## Notes: Automatically buy rare items from specified vendors
+## Author: mr_ocx
+## Version: v0.0.1-alpha1
+
+main.lua
